@@ -1,2 +1,2 @@
 # nexova-reels
-Approved Nexova Media reels, hosted for the posting utomation
+Hosting for Nexova Media's approved daily reels (GitHub Pages). Only approved reels are pushed here. The posting automation reads queue/next.json.
